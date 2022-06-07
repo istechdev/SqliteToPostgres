@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [DEV - Version12] - 2022-06-07
+
+### Added
+### Changed
+- Added start and increment to scheme parser for autoincrement initialization.
+### Removed
+### Fixed
+
 ## [DEV - Version11] - 2022-06-07
 
 ### Added
@@ -13,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - change id fields in order to have identity as default. (AutoIncrement)
 ### Removed
 ### Fixed
+
 ## [DEV - Version10] - 2022-06-05
 ### Added
 - sqlalchemy engine disposal after data transfer
