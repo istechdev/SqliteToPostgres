@@ -6,54 +6,34 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [DEV - Version15.5] - 2022-07-24
-
+## [DEV - Version16] - 2022-07-24
 ### Added
 ### Changed
 ### Removed
 ### Fixed
+- .ini-template files added
+
+## [DEV - Version15.5] - 2022-07-24
+### Fixed
 - .ini files were deleted
 
 ## [DEV - Version15] - 2022-07-24
-
-### Added
 ### Changed
 - .ini and .db files were added to .gitignore
-### Removed
 ### Fixed
 - changelog.md was updated
 - general information in .ini files (must be updated locally for each case)
 
 ## [DEV - Version14] - 2022-07-24
-
-### Added
-### Changed
-### Removed
-### Fixed
-
-
 ## [DEV - Version13]
-### Added
-### Changed
-### Removed
-### Fixed
-
 
 ## [DEV - Version12] - 2022-06-07
-
-### Added
 ### Changed
 - Added start and increment to scheme parser for autoincrement initialization.
-### Removed
-### Fixed
 
 ## [DEV - Version11] - 2022-06-07
-
-### Added
 ### Changed
 - change id fields in order to have identity as default. (AutoIncrement)
-### Removed
-### Fixed
 
 ## [DEV - Version10] - 2022-06-05
 ### Added
