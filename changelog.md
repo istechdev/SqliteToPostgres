@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [DEV - Version15] - 2022-07-24
+
+### Added
+### Changed
+- .ini and .db files were added to .gitignore
+### Removed
+### Fixed
+- changelog.md was updated
+- general information in .ini files (must be updated locally for each case)
+
+## [DEV - Version14] - 2022-07-24
+
+### Added
+### Changed
+### Removed
+### Fixed
+
+
+## [DEV - Version13]
+### Added
+### Changed
+### Removed
+### Fixed
+
+
 ## [DEV - Version12] - 2022-06-07
 
 ### Added
