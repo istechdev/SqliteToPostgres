@@ -1,4 +1,5 @@
 # .ini files
+*.ini
 
 # database files
 *.db
